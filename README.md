@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привіт, мене звати Катерина
 
-<!--
-**karacevcevakaterina015-cell/karacevcevakaterina015-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Я тільки починаю свій шлях в сфері IT, опановую нові технології та розвиваю свої навички
 
-Here are some ideas to get you started:
+Я тільки починаю свій шлях в сфері IT
+Зараз я навчаюся та розвиваю свої навички
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### вивчаю
+- HTML
+- CSS
+- Git
+- GitHub
+
+- стати гарним розробником сайтів
+
+## Мої навички
+
+- Git
+- GitHub
+
+## Контакти
+
+ GitHub: karacevcevakaterina015-cell
